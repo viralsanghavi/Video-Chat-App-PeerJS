@@ -1,0 +1,11 @@
+# Plan Of Action
+- Initialize NodejS Project DONE
+- Initialize first view DONE
+- Create a room id DONE
+- add the ability to view own video DONE
+- Add ability to allow others to stream videos 
+- Styling
+- Messaging
+- Mute Button
+- Stop Video Feature
+- Deployment
